@@ -1,1 +1,3 @@
 # HelloCV
+第一次任务分为两个板块，Linux与Git
+在Linux板块中，前三部分介绍了Ubuntu22.04的配置及有关软件的下载，第四部分介绍了Linux的使用
