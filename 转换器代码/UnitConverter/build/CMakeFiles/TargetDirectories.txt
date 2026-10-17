@@ -1,0 +1,6 @@
+/home/qian/UnitConverter/build/CMakeFiles/main.dir
+/home/qian/UnitConverter/build/CMakeFiles/edit_cache.dir
+/home/qian/UnitConverter/build/CMakeFiles/rebuild_cache.dir
+/home/qian/UnitConverter/build/unitlib/CMakeFiles/unitlib.dir
+/home/qian/UnitConverter/build/unitlib/CMakeFiles/edit_cache.dir
+/home/qian/UnitConverter/build/unitlib/CMakeFiles/rebuild_cache.dir
